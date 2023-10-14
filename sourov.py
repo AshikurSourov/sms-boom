@@ -4,4 +4,4 @@
 
 import os
 import as
-as.loging()￼Enter
+as.loging()
